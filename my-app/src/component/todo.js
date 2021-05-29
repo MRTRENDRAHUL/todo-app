@@ -10,7 +10,8 @@ export const Todo = () => {
             setItems([...items, inputData]);
             setInputData('')
         }
-        // some random changes
+        // some random changes in my PR
+        // added more comments
 
     }
     const deleteItem=(id) =>{
